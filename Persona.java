@@ -16,12 +16,13 @@ public class Persona {
 	public void setName(String name) {
 		this.name = name;
 	}
-
+	
 	public int getDNI() {
 		return this.dni;
 	}
 	
 	public void setDNI(int dni) {
 		this.dni = dni;
+
 	}
 }
